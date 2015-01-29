@@ -1,0 +1,24 @@
+{
+  "name": "simplest_node_proxy",
+  "version": "1.0.0",
+  "description": "A simplest http proxy written in nodejs",
+  "main": "proxy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fengshihao/simplest_node_proxy.git"
+  },
+  "keywords": [
+    "nodejs",
+    "proxy",
+    "simplest"
+  ],
+  "author": "fengshihao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fengshihao/simplest_node_proxy/issues"
+  },
+  "homepage": "https://github.com/fengshihao/simplest_node_proxy"
+}
